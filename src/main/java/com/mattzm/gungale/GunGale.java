@@ -1,4 +1,4 @@
-package mattzm.gungale;
+package com.mattzm.gungale;
 
 import net.minecraftforge.fml.common.Mod;
 
